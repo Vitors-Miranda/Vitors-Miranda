@@ -1,7 +1,7 @@
 ### Hi there!! I'm Vitor 👋
 
 - 🔭 I’m currently taking technical education about system's development at Etec...
-- 🌱 I’m really like fron-end! JS ❤️
+- 🌱 I’m really like front-end! JS ❤️
 - 😄 Pronouns: he/his
 - ⚡ Let's go!
 
