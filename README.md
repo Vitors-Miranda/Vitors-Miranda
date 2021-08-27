@@ -1,6 +1,6 @@
 ### Hi there!! I'm Vitor 👋
 
-- 🔭 I’m currently studyng tecnical education about system's development on Etec...
+- 🔭 I’m currently taking technical education about system's development at Etec...
 - 🌱 I’m really like fron-end! JS ❤️
 - 😄 Pronouns: he/his
 - ⚡ Let's go!
