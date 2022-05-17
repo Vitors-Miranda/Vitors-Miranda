@@ -7,8 +7,6 @@
 
 <div>
   <a href="https://github.com/Vitors-Miranda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitors-mranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitors-miranda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <details open>
     <summary>Technologies</summary>
