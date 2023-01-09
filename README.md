@@ -1,23 +1,33 @@
-### Hi there!! I'm Vitor 👋
+<h1> Hello World! </h1>
 
 - 🔭 I’m currently taking technical education about system's development at Etec...
 - 🌱 I’m really like front-end! JS ❤️
 - 😄 Pronouns: he/his
 - ⚡ Let's go!
 
+  ![programming](https://user-images.githubusercontent.com/82851236/211395535-3410c46d-68fb-48ae-b22b-916ac04d193e.gif)
+
+
 <div>
   <a href="https://github.com/Vitors-Miranda">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitors-miranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitors-miranda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
   <details open>
     <summary>Technologies</summary>
     <br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Rafa-Csharp" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg>
+    <img align="center" alt="Rafa-Csharp" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg>
+    <img align="center" alt="Rafa-Csharp" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg>
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg>
+    <img align="center" alt="Rafa-Csharp" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg>
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Rafa-Csharp" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg>
+    
+    
  </details>
 
   ##
