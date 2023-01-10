@@ -1,7 +1,7 @@
 <h1> Hello World! </h1>
 
 - 🔭 I’m currently taking technical education about system's development at Etec...
-- 🌱 I’m really like front-end! JS ❤️
+- 🌱 I really like front-end! JS ❤️
 - 😄 Pronouns: he/his
 - ⚡ Let's go!
 
