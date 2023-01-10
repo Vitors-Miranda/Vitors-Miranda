@@ -1,6 +1,8 @@
 <h1> Hello World! </h1>
 
-- 🔭 I’m currently taking technical education about system's development at Etec...
+- 🔭 I'm currently studying Angular! 
+- 🙌 3/3 DS Etec Sales Gomes 
+- 🤝 1/2 ADS Fatec
 - 🌱 I really like front-end! JS ❤️
 - 😄 Pronouns: he/his
 - ⚡ Let's go!
@@ -34,7 +36,7 @@
  <div>
   <a href="https://instagram.com/vitors_miranda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "vitormsouza3105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href=mailto:vitorsmiranda31@gmail.com?subject="link HTML"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-miranda-2445a41b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://api.whatsapp.com/send?phone=5515991602629" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  </div>
