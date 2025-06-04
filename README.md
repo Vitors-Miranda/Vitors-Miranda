@@ -2,9 +2,9 @@
 
 
  
-<h1>👋 I'm Vitor Miranda</h1>
+<h3>👋 I'm Vitor Miranda</h3>
 <p> I'm from Brazil and I'm currently studying Telematics Engineering in Spain. I've always been passionate about technology, and programming has been my favorite hobby since I was a kid. </p>
-<h1>📈​ My stats</h1>
+<h3>📈​ My stats</h3>
 <div>
   <img src="https://streak-stats.demolab.com?user=vitors-miranda&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
